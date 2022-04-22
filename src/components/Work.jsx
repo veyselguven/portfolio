@@ -8,7 +8,7 @@ function Work() {
     <div name="work" className="w-full md:h-screen text-gray-300 bg-[#0a192f]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600">
+          <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-green-600">
             Work
           </p>
           <p className="py-6 font-bold text-green-500 ">
@@ -19,7 +19,7 @@ function Work() {
             creating an E-commerce- website The goal of this project was to
             emulate an e-commerce storefront with a functioning backend and
             checkout system.
-            <ul>
+            <ul style={{ listStyleType: "square" }}>
               <li>
                 Attended daily standups and periodic code reviews, drew up the
                 team contract, reviewed pull requests.
@@ -39,7 +39,7 @@ function Work() {
           <p className="py-6">
             A full-stack single-page application (SPA) of creating an web-based
             space arcade strategic game with tower defense design
-            <ul>
+            <ul style={{ listStyleType: "square" }}>
               <li>
                 Collaborated with a team to create a fun, strategic gaming
                 experience
