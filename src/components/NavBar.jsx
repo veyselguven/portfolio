@@ -21,6 +21,13 @@ const NavBar = () => {
   const handleClick = () => {
     return setNav(!nav);
   };
+  /* first we create object of package and pass page type as a argument lke a4,potrait,landscape 
+  Add image function take 6 arg file name,type,x-axis,y-axis,width,height 
+  const pdfGenerate = () => {
+    var doc = new jsPDF("landscape", "px", "a4", "false");
+    doc.addImage(Veysel, "PDF", 65, 20, 500, 400);
+    doc.save("veyselresume.pdf");
+  }; */
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
       <div>
@@ -120,7 +127,7 @@ const NavBar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="mailto:vgbasbaydar@gmail.com"
               target="_blank"
             >
               Email
@@ -130,7 +137,7 @@ const NavBar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="./assets/veysel.pdf"
+              href="./veysel.pdf"
               target="_blank"
             >
               Resume
