@@ -31,7 +31,11 @@ const NavBar = () => {
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
       <div>
-        <img src={MyLogo} alt="logo image" style={{ width: "80px" }} />
+        <Link to="about">
+          <button>
+            <img src={MyLogo} alt="logo image" style={{ width: "80px" }} />
+          </button>
+        </Link>
       </div>
       {/* Menu */}
       <ul className="hidden md:flex">
