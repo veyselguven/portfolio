@@ -2,20 +2,12 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 import Link from "react-scroll/modules/components/Link";
-import Veyselpic from "../assests/veyselpic.jpg";
+//import Veyselpic from "../assests/veyselpic.jpg";
 
 const Home = () => {
   return (
     <div name="home" className="w-full h-screen bg-[#0a192f]">
-      <div className="flex flex-wrap justify-center">
-        <div className="w-6/12 sm:w-4/12 px-4 py-14">
-          <img
-            src={Veyselpic}
-            alt="veyselbasbaydar"
-            className="shadow-lg rounded-full max-w-full h-auto align-middle border-none"
-          />
-        </div>
-      </div>
+      <div className="flex flex-wrap justify-center"></div>
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <p className="text-pink-600"> Hi my name is </p>
         <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">

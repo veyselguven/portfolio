@@ -5,7 +5,7 @@ function Contact() {
   return (
     <div
       name="contact"
-      className="w-full h-screen bg-[#0a192f] flex justify-center items-center py-4"
+      className="w-full h-screen bg-[#0a192f] flex justify-center items-center py-4 "
     >
       <form
         method="POST"
@@ -13,6 +13,8 @@ function Contact() {
         className="flex flex-col max-w-[600px] w-full"
       >
         <div className="pb-8">
+          <br /> <br />
+          <br /> <br />
           <p className="text-4xl font-bold inline border-b-4 border-pink-600 text-gray-300">
             Contact
           </p>

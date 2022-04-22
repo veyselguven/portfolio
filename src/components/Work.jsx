@@ -11,7 +11,54 @@ function Work() {
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600">
             Work
           </p>
-          <p className="py-6">// Check oout some of my recent work</p>
+          <p className="py-6 font-bold text-green-500 ">
+            // Check oout some of my recent work
+          </p>
+          <p className="py-6 ">
+            E commerce WebSite-A full-stack single-page application (SPA) of
+            creating an E-commerce- website The goal of this project was to
+            emulate an e-commerce storefront with a functioning backend and
+            checkout system.
+            <ul>
+              <li>
+                Attended daily standups and periodic code reviews, drew up the
+                team contract, reviewed pull requests.
+              </li>
+              <li>
+                Initialized connections between users, collaborated with other
+                members to implement additional features, worked on both
+                front-end and back-end development.
+              </li>
+              <li>
+                Locally stored shopping cart where any product user adds will be
+                stored unless cleared by the user.
+              </li>
+              <li>Built with reusable functional components.</li>
+            </ul>
+          </p>
+          <p className="py-6">
+            A full-stack single-page application (SPA) of creating an web-based
+            space arcade strategic game with tower defense design
+            <ul>
+              <li>
+                Collaborated with a team to create a fun, strategic gaming
+                experience
+              </li>
+              <li>
+                Participated in daily standups and periodic code reviews, drew
+                up the team contract, reviewed pull requests.
+              </li>
+              <li>
+                Created connections between users, collaborated with other
+                members to implement additional features, worked on both
+                front-end and back-end development.
+              </li>
+              <li>
+                Applying JavaScript,Phaser, Express, React, Redux and deployed
+                with Heroku.
+              </li>
+            </ul>
+          </p>
         </div>
         {/* Container */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
