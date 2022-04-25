@@ -27,26 +27,31 @@ function About() {
             </div>
             <div>
               <p>
-                I have graduated from Sakarya University located in Turkey.I
-                have received my bachelors degree in Mechanical Engineering in
-                2013.After i graduated from I went to England to learn English
-                for 9 months, After my language education.I started to work in
-                Construction company which called Hak Yapi for 2 years as a
-                Mechanical Engineer.During this time we built hospital from the
-                scratch.After this project, I was accepted by Airlines Company
-                which is called ACT airlines. I have been trained for 6 months
-                to get a certificate of Loadmaster degree in Airline Cargo
-                company. I have an experience in Aircraft Loadmaster. Started
-                2017-2020, I have worked with Boeing 747-400 freighter cargo. I
-                moved USA with my wife in 2020 (before pandemic). i was looking
-                for which job is good for me. I've encountered Software
-                technologies, I started to search, finally i wanted to spend my
-                rest of life as a Software Engineer. I've taken the course from
-                FullStack Academy. 17-week immersive software engineering remote
-                program, centered on full-stack JavaScript development,
-                including: Node.js, Express, Sequelize ORM for PostgreSQL
-                databases, React and Redux; along with HTML & CSS, and CS
-                fundamentals.
+                I have completed my bachelors degree as a Mechanical Engineer in
+                2013, and graduated from Sakarya University located in Turkey.
+                After I completed my degree, I went to England to become more
+                proficient in English. It took me 9 months to complete my
+                education in England. After I returned back to Turkey, I have
+                started to work in a construction company for 2 years as a
+                Mechanical Engineer. The project was to built a hospital from
+                the scratch. After the project was completed, I was accepted by
+                an ACT airlines company (located in Turkey) as a Loadmaster. I
+                have trained for 6 months get certificated in Loadmasters
+                degree. Between the dates of 2017-2020, I have worked with
+                Boeing 747-400 freighter cargo. I moved to United States with my
+                wife in 2020 (before the pandemic). I was looking for a job that
+                was suitable for me. I have encountered with Software
+                technologies, and started to explore opportunities for Software
+                engineering. Finally, I realized that I should spend rest of my
+                life as a Software Engineer. After self studying JavaScript
+                basis, I got accepted to a competitive programming boot-camp,
+                Fullstack Academy, and I became a software engineer. It was a
+                17-week immersive software engineering remote program, centered
+                on full-stack JavaScript development, including: Node.js,
+                Express, Sequelize ORM for PostgreSQL databases, React and
+                Redux; along with HTML & CSS, and CS fundamentals. I am looking
+                forward to contributing my current skills to a project that I
+                can be proud to be part of, and grow further as an engineer.
               </p>
             </div>
           </div>
