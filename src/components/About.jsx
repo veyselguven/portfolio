@@ -25,7 +25,7 @@ function About() {
                 />
               </div>
             </div>
-            <div>
+            <div className>
               <p>
                 I have completed my bachelors degree as a Mechanical Engineer in
                 2013, and graduated from Sakarya University located in Turkey.
@@ -45,13 +45,7 @@ function About() {
                 engineering. Finally, I realized that I should spend rest of my
                 life as a Software Engineer. After self studying JavaScript
                 basis, I got accepted to a competitive programming boot-camp,
-                Fullstack Academy, and I became a software engineer. It was a
-                17-week immersive software engineering remote program, centered
-                on full-stack JavaScript development, including: Node.js,
-                Express, Sequelize ORM for PostgreSQL databases, React and
-                Redux; along with HTML & CSS, and CS fundamentals. I am looking
-                forward to contributing my current skills to a project that I
-                can be proud to be part of, and grow further as an engineer.
+                Fullstack Academy.
               </p>
             </div>
           </div>
