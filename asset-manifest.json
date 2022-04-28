@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/veyselbasbaydar/static/css/main.b57d7515.css",
-    "main.js": "/veyselbasbaydar/static/js/main.de2ce1d6.js",
+    "main.js": "/veyselbasbaydar/static/js/main.0ca08d90.js",
     "static/media/game.png": "/veyselbasbaydar/static/media/game.fb3599bab697f6b69a0b.png",
     "static/media/work.png": "/veyselbasbaydar/static/media/work.f9e38ca75e65afb352f8.png",
     "static/media/veyselpic.jpg": "/veyselbasbaydar/static/media/veyselpic.966dd3a0444dcca968ba.jpg",
@@ -16,10 +16,10 @@
     "static/media/javascript.png": "/veyselbasbaydar/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/veyselbasbaydar/index.html",
     "main.b57d7515.css.map": "/veyselbasbaydar/static/css/main.b57d7515.css.map",
-    "main.de2ce1d6.js.map": "/veyselbasbaydar/static/js/main.de2ce1d6.js.map"
+    "main.0ca08d90.js.map": "/veyselbasbaydar/static/js/main.0ca08d90.js.map"
   },
   "entrypoints": [
     "static/css/main.b57d7515.css",
-    "static/js/main.de2ce1d6.js"
+    "static/js/main.0ca08d90.js"
   ]
 }
