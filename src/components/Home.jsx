@@ -15,7 +15,7 @@ const Home = () => {
           Veysel BASBAYDAR
         </h1>
         <h2 className="text-2xl sm:text-2xl font-bold text-[#8892b0]">
-          Former Mechanical Engineer, Current FullStack Developer
+          FullStack Developer
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
           I’m a full-stack developer with experience managing large datasets and
