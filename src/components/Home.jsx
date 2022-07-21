@@ -18,7 +18,7 @@ const Home = () => {
           FullStack Developer
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          I’m a full-stack developer with experience managing large datasets and
+          I’m a Full-Stack developer with experience managing large datasets and
           collaborating with other developers to create responsive web
           applications.
         </p>
