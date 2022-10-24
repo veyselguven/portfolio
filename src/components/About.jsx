@@ -43,7 +43,7 @@ function About() {
                 Finally, I realized that I should spend rest of my life as a
                 Software Engineer. After self studying JavaScript basis, I got
                 accepted to a competitive programming boot-camp, Fullstack
-                Academy.
+                Academy(located in NewYork)
               </p>
             </div>
           </div>
