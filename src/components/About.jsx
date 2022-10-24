@@ -32,20 +32,18 @@ function About() {
                 After I completed my degree, I went to England to become more
                 proficient in English. It took me 9 months to complete my
                 education in England. After I returned back to Turkey, I have
-                started to work in a construction company for 2 years as a
-                Mechanical Engineer. The project was to built a hospital from
-                the scratch. After the project was completed, I was accepted by
-                an ACT airlines company (located in Turkey) as a Loadmaster. I
-                have trained for 6 months get certificated in Loadmasters
-                degree. Between the dates of 2017-2020, I have worked with
-                Boeing 747-400 freighter cargo. I moved to United States with my
-                wife in 2020 (before the pandemic). I was looking for a job that
-                was suitable for me. I have encountered with Software
-                technologies, and started to explore opportunities for Software
-                engineering. Finally, I realized that I should spend rest of my
-                life as a Software Engineer. After self studying JavaScript
-                basis, I got accepted to a competitive programming boot-camp,
-                Fullstack Academy.
+                started to work in a construction as a Mechanical Engineer. The
+                project was to built a hospital from the scratch. After the
+                project was completed, I was accepted by an ACT airlines company
+                (located in Turkey) as a Loadmaster.I have worked with Boeing
+                747-400 freighter cargo. I moved to United States with my wife
+                in 2020 (before the pandemic). I was looking for a job that was
+                suitable for me. I have encountered with Software technologies,
+                and started to explore opportunities for Software engineering.
+                Finally, I realized that I should spend rest of my life as a
+                Software Engineer. After self studying JavaScript basis, I got
+                accepted to a competitive programming boot-camp, Fullstack
+                Academy.
               </p>
             </div>
           </div>
